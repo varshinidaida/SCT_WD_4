@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Smart To-Do Pro</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="app">
+  <h1>📝 Smart To-Do Pro</h1>
+
+  <div class="top-bar">
+    <input type="text" id="search" placeholder="Search tasks..." onkeyup="searchTask()">
+    <button onclick="toggleTheme()">🌙</button>
+  </div>
+
+  <div class="input-section">
+    <input type="text" id="taskInput" placeholder="Enter task...">
+    <input type="datetime-local" id="taskDate">
+    <button onclick="addTask()">Add</button>
+  </div>
+
+  <div class="progress">
+    <div id="progressBar"></div>
+  </div>
+
+  <div class="actions">
+    <button onclick="clearAll()">Clear All</button>
+  </div>
+
+  <ul id="taskList"></ul>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>

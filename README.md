@@ -55,7 +55,7 @@ This app helps users efficiently manage daily tasks with a clean UI and powerful
 1. Download or clone the repository
 
 ```
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/varshinidaida/SCT_WD_4.git
 ```
 
 2. Open the project folder

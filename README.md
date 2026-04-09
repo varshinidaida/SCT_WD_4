@@ -13,7 +13,7 @@ This app helps users efficiently manage daily tasks with a clean UI and powerful
 
 ## 💻 GitHub Repository
 
-🔗 https://github.com/your-username/your-repo-name
+🔗 https://github.com/varshinidaida/SCT_WD_4
 
 ---
 

@@ -1,4 +1,4 @@
-# 📝 Smart To-Do
+# 📝 Smart To-Do App
 
 A modern and feature-rich To-Do Web Application built using **HTML, CSS, and JavaScript**.
 This app helps users efficiently manage daily tasks with a clean UI and powerful features.
